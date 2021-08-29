@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../partials/button.scss"
+    ],
+    "names": [],
+    "file": "button.css"
+}

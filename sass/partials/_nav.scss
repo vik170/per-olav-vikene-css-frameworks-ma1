@@ -1,0 +1,16 @@
+nav {
+    background: green;
+    
+ 
+
+    a {
+        text-decoration: none;
+        color: getColor();
+    }
+
+    ul {
+        list-style: none;
+        display: flex;
+    }
+
+}
