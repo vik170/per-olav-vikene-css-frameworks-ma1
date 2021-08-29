@@ -1,0 +1,16 @@
+$colors: (
+   
+    grey: #E5E5E5,
+    pink: #C32C72,
+    nav-text: #8D8D8D,
+    beige: #F4F3EE,
+    );
+
+$fonts: (
+    primary: "open sans",
+    headings: "Archivo Narrow",
+);
+
+@function getColors($color) {
+    @return map-get($colors, $color);
+};
